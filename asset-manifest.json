@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/studyware/static/css/main.d7307ea8.css",
-    "main.js": "/studyware/static/js/main.66f30650.js",
+    "main.css": "/studyware/static/css/main.f9eed9b7.css",
+    "main.js": "/studyware/static/js/main.dc2d9833.js",
     "static/media/wojak_studio.png": "/studyware/static/media/wojak_studio.5830d610381ba408a022.png",
     "index.html": "/studyware/index.html",
-    "main.d7307ea8.css.map": "/studyware/static/css/main.d7307ea8.css.map",
-    "main.66f30650.js.map": "/studyware/static/js/main.66f30650.js.map"
+    "main.f9eed9b7.css.map": "/studyware/static/css/main.f9eed9b7.css.map",
+    "main.dc2d9833.js.map": "/studyware/static/js/main.dc2d9833.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7307ea8.css",
-    "static/js/main.66f30650.js"
+    "static/css/main.f9eed9b7.css",
+    "static/js/main.dc2d9833.js"
   ]
 }
