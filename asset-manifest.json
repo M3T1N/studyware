@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/studyware/static/css/main.fc5d32c5.css",
+    "main.js": "/studyware/static/js/main.6faa6ab6.js",
+    "static/media/wojak_studio.png": "/studyware/static/media/wojak_studio.5830d610381ba408a022.png",
+    "index.html": "/studyware/index.html",
+    "main.fc5d32c5.css.map": "/studyware/static/css/main.fc5d32c5.css.map",
+    "main.6faa6ab6.js.map": "/studyware/static/js/main.6faa6ab6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5d32c5.css",
+    "static/js/main.6faa6ab6.js"
+  ]
+}
